@@ -1,0 +1,24 @@
+{
+  "name": "procedural-generation",
+  "version": "1.0.0",
+  "description": "Procedural generation script for minecraft bedrock",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AletropyS2/mcbedrock-procedural-generation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AletropyS2/mcbedrock-procedural-generation/issues"
+  },
+  "homepage": "https://github.com/AletropyS2/mcbedrock-procedural-generation#readme",
+  "devDependencies": {
+    "@types/mojang-minecraft": "^0.1.7",
+    "@types/mojang-minecraft-ui": "^0.1.0",
+    "typescript": "^4.8.2"
+  }
+}
